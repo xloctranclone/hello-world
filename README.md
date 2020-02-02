@@ -6,3 +6,6 @@ I will add another line.
 I will add myself a file.
 Jeremie wants to change something.
 Loc loc loc loc loc
+1+2 = 3
+Nguyen Dang Khoa :DDDDDDDD
+Minh-Hieu Do
