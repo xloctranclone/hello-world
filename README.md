@@ -6,3 +6,4 @@ I will add another line.
 I will add myself a file.
 Jeremie wants to change something.
 1+2 = 3
+Minh-Hieu Do
